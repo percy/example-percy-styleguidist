@@ -43,7 +43,7 @@ export default function TodoApp({
 
   return (
     <div>
-      <header className="header" style={{ fontWeight: 'bold' }}>
+      <header className="header">
         <h1>todos</h1>
         <input
           autoFocus={true}

@@ -1,0 +1,11 @@
+{
+  "percy": {
+    "percyCSS": ".clear-completed { border: 3px solid red !important; }",
+    "regions": [
+      {
+        "elementSelector": { "elementCSS": ".todo-count" },
+        "algorithm": "layout"
+      }
+    ]
+  }
+}

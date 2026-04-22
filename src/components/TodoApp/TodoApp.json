@@ -1,0 +1,8 @@
+{
+  "percy": {
+    "widths": [375, 1280],
+    "additionalSnapshots": [
+      { "suffix": " - Mobile", "widths": [375] }
+    ]
+  }
+}

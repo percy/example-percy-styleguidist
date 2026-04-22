@@ -19,7 +19,7 @@
     "@babel/preset-env": "^7.26.0",
     "@babel/preset-react": "^7.25.9",
     "@percy/cli": "^1.31.12",
-    "@percy/styleguidist": "file:../percy-styleguidist",
+    "@percy/styleguidist": "^0.1.0",
     "babel-loader": "^9.2.1",
     "css-loader": "^7.1.2",
     "style-loader": "^4.0.0",

@@ -1,5 +1,6 @@
 module.exports = {
   title: 'TodoMVC Style Guide',
+
   sections: [
     {
       name: 'App',

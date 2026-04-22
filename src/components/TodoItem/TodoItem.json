@@ -1,0 +1,10 @@
+{
+  "percy": {
+    "regions": [
+      {
+        "elementSelector": { "elementCSS": ".destroy" },
+        "algorithm": "ignore"
+      }
+    ]
+  }
+}
